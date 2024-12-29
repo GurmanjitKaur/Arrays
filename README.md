@@ -6,3 +6,10 @@ Question 1: Remove Even Integers From Array
 Question 2: Merge Two Sorted Arrays
   Time Complexity: O(m+n).
   Space Complexity: O(m+n).
+
+  
+Question 3: Find Two Numbers That Add Up to K
+
+
+
+
